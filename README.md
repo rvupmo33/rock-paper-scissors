@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Best out of 3 tic tac toe game.
+Best out of 3 rock paper scissors game
